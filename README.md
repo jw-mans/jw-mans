@@ -2,15 +2,6 @@
 Hi! I’m Daniel — a computer science and mathematics student passionate about building intelligent systems and robust backend architectures.  
 On GitHub, I explore the intersection of machine learning, distributed computing, and software engineering, turning complex mathematical ideas into practical, efficient code.    
 
-## 🚀 What I Do
-- Develop backend systems and infrastructure tools in Go, Python, and Java.  
-- Experiment with LLMs, AI-driven applications, and model optimization pipelines (MLOps).  
-- Design and implement algorithms and mathematical solutions for data processing and analysis.<br>Explore P2P systems, compression algorithms, and automation bots — blending theory with real-world engineering.  
-
-## 🎯 Goals
-- Build scalable backend services and intelligent agents using LLMs.
-- Contribute to open-source projects in the areas of AI, developer tooling, and distributed computing.<br>Combine strong theoretical background in math with hands-on engineering to create performant, understandable systems.
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aethelweiss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniiljermakiw@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jw_mans)
 
