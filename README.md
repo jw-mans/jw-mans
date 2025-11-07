@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Daniel — a computer science and mathematics student passionate about building intelligent systems and robust backend architectures.  
+A computer science and mathematics student passionate about building intelligent systems and robust backend architectures.  
 On GitHub, I explore the intersection of machine learning, distributed computing, and software engineering, turning complex mathematical ideas into practical, efficient code.    
 
 ## 🌐 Socials:
