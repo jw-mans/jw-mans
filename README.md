@@ -1,7 +1,3 @@
-# 💫 About Me:
-A computer science and mathematics student passionate about building intelligent systems and robust backend architectures.  
-On GitHub, I explore the intersection of machine learning, distributed computing, and software engineering, turning complex mathematical ideas into practical, efficient code.    
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aethelweiss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniiljermakiw@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jw_mans)
 
