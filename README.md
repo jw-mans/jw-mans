@@ -4,5 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=jw-mans&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jw-mans&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jw-mans&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+markdown
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
