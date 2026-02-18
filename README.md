@@ -4,3 +4,9 @@
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jw-mans&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jw-mans&theme=dark&hide_border=false)<br/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rimk4&theme=github_dark&height=120" style="flex: 1; min-width: 170px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rimk4&theme=github_dark&height=120" style="flex: 1; min-width: 170px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rimk4&theme=github_dark&utcOffset=3&height=120" style="flex: 1; min-width: 170px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rimk4&theme=github_dark&utcOffset=3&height=120" style="flex: 1; min-width: 170px;" />
+</div>
