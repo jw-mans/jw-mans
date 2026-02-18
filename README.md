@@ -3,8 +3,6 @@
 ## Contributions:  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jw-mans&theme=react-dark&hide_border=true&area=true&color=FF6B6B&line=4ECDC4&point=FFFFFF&bg_color=0D1117&height=250)
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jw-mans&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jw-mans&theme=dark&hide_border=false)<br/>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jw-mans&theme=github_dark&height=120" style="flex: 1; min-width: 170px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jw-mans&theme=github_dark&height=120" style="flex: 1; min-width: 170px;" />
