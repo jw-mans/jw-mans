@@ -11,4 +11,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jw-mans&theme=github_dark&utcOffset=3&height=120" style="flex: 1; min-width: 170px;" />
 </div>
 ## Weekly Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rimk4&theme=react-dark&hide_border=true&area=true&color=FF6B6B&line=4ECDC4&point=FFFFFF&bg_color=0D1117&height=250)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jw-mans&theme=react-dark&hide_border=true&area=true&color=FF6B6B&line=4ECDC4&point=FFFFFF&bg_color=0D1117&height=250)
